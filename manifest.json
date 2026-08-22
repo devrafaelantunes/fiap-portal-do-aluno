@@ -1,0 +1,16 @@
+{
+  "name": "FIAP – Aluno Online",
+  "short_name": "FIAP",
+  "start_url": "/fiap-portal-do-aluno/",
+  "display": "standalone",
+  "background_color": "#1e3d7a",
+  "theme_color": "#1e3d7a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "250x65",
+      "type": "image/png"
+    }
+  ]
+}
